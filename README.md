@@ -34,9 +34,9 @@ El juego continúa hasta que el usuario decida salir.
 Ejecutá el programa desde la terminal:
 
 ``` bash
-python juego_binario.py
+python juego_adivinanza_binario.py
 ```
 
 ## 👨‍🎓 Autor
 
-Trabajo práctico universitario desarrollado por Guido.
+Trabajo práctico desarrollado por Guido Sampaoli.
